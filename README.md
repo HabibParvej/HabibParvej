@@ -11,7 +11,7 @@ I'm a passionate **MCA student at Siliguri Institute of Technology** with a focu
 
 ## GitHub Projects
 
-- **[Python Programming Assignments](https://github.com/HabibParvej/python-assignments)**: Solutions to my programming assignments, focusing on foundational Python concepts and problem-solving skills.
+- **[Python Programming Assignments](https://github.com/HabibParvej/Python-_Assignments_MCA)**: Solutions to my programming assignments, focusing on foundational Python concepts and problem-solving skills.
 - **[DSA Practice](https://github.com/HabibParvej/DSA)**: My journey in mastering Data Structures and Algorithms, starting from the basics.
 - **[Smart Health Monitoring System](https://github.com/HabibParvej/SmartHealthMonitoringSystem)**: A health monitoring application that predicts health risks using Machine Learning and synthetic data.
 - **[Hate Speech Detection](https://github.com/HabibParvej/HateSpeechDetection)**: A machine learning model to detect hate speech in social media posts.
