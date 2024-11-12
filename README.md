@@ -14,7 +14,7 @@ I'm a passionate **MCA student at Siliguri Institute of Technology** with a focu
 - **[Python Programming Assignments](https://github.com/HabibParvej/python-assignments)**: Solutions to my programming assignments, focusing on foundational Python concepts and problem-solving skills.
 - **[DSA Practice](https://github.com/HabibParvej/DSA)**: My journey in mastering Data Structures and Algorithms, starting from the basics.
 - **[Smart Health Monitoring System](https://github.com/HabibParvej/SmartHealthMonitoringSystem)**: A health monitoring application that predicts health risks using Machine Learning and synthetic data.
-- **[Hate Speech Detection](https://github.com/HabibParvej/hate-speech-detection)**: A machine learning model to detect hate speech in social media posts.
+- **[Hate Speech Detection](https://github.com/HabibParvej/HateSpeechDetection)**: A machine learning model to detect hate speech in social media posts.
 - **[SMS Spam Classification](https://github.com/HabibParvej/sms-spam-classification)**: A project to classify SMS messages as spam or not spam using natural language processing (NLP) techniques.
 - **[Credit Data Analysis](https://github.com/HabibParvej/Credit-Data-analysis)**: Exploratory Data Analysis (EDA) and predictive modeling on credit data to analyze patterns and make predictions.
 ## Skills
