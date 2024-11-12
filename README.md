@@ -32,10 +32,3 @@ I'm a passionate **MCA student at Siliguri Institute of Technology** with a focu
 
 Thank you for visiting my GitHub profile! Feel free to explore my projects and reach out if you’d like to collaborate or discuss anything tech-related!
 """
-
-# Writing the updated GitHub profile README content to a file
-updated_github_profile_readme_path = '/mnt/data/README_github_profile_habib.md'
-with open(updated_github_profile_readme_path, 'w') as file:
-    file.write(updated_github_profile_readme_content)
-
-updated_github_profile_readme_path
