@@ -17,7 +17,7 @@ I'm a passionate **MCA student at Siliguri Institute of Technology** with a focu
 - **[Hate Speech Detection](https://github.com/HabibParvej/HateSpeechDetection)**: A machine learning model to detect hate speech in social media posts.
 - **[SMS Spam Classification](https://github.com/HabibParvej/sms-spam-classification)**: A project to classify SMS messages as spam or not spam using natural language processing (NLP) techniques.
 - **[Credit Data Analysis](https://github.com/HabibParvej/Credit-Data-analysis)**: Exploratory Data Analysis (EDA) and predictive modeling on credit data to analyze patterns and make predictions.
-- **Crime Data Analysis Using ML Approaches: Analyzed crime data to uncover patterns and predict hotspots, using machine learning models.
+- **Crime Data Analysis Using ML Approaches**: Analyzed crime data to uncover patterns and predict hotspots, using machine learning models.
 ## Skills
 
 - **Languages**: Python, C, C++, Java
