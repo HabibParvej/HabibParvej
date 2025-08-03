@@ -33,6 +33,10 @@ I'm a passionate **MCA student at Siliguri Institute of Technology** with a focu
 - 🔗 [LinkedIn](https://www.linkedin.com/in/habibparvej/)
 - 📧 [Email](mailto:habibparvej777@gmail.com)
 
+### 📌 Open Source Contributions
+
+- 🧑‍💻 Contributed a "Hello, World!" Django view to [fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge) ([PR #XXXX](https://github.com/fork-commit-merge/fork-commit-merge/pull/XXXX))
+
 ---
 
 Thanks for visiting my GitHub! Feel free to explore my work, give feedback, or reach out if you'd like to collaborate on a project.
