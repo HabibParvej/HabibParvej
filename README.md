@@ -36,8 +36,13 @@ I'm a passionate **MCA student at Siliguri Institute of Technology** with a focu
 ### 📌 Open Source Contributions
 
 - 🧑‍💻 Contributed a "Hello, World!" Django view to [fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge) ([PR #4310](https://github.com/fork-commit-merge/fork-commit-merge/pull/4310))
+- ## 🌟 Open Source Contributions
 
-
+- ✅ **Improved Job Search Functionality** in [jobportal](https://github.com/Khushi-Nigam/jobportal)
+  - Fixed an AJAX search bug causing empty results
+  - Enhanced search filters (job title, location, experience)
+  - Refactored views and templates for better UX
+  - Pull Request: [#109](https://github.com/Khushi-Nigam/jobportal/pull/109)
 ---
 
 Thanks for visiting my GitHub! Feel free to explore my work, give feedback, or reach out if you'd like to collaborate on a project.
