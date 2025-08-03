@@ -1,37 +1,38 @@
 # Hello, I'm Habib Parvej! 👋
 
-I'm a passionate **MCA student at Siliguri Institute of Technology** with a focus on **Data Science** and **Python Programming**. I love exploring different aspects of data, machine learning, and programming. This GitHub profile showcases my projects, assignments, and hands-on practice as I dive deeper into the world of technology and coding.
+I'm a passionate **MCA student at Siliguri Institute of Technology** with a focus on **Data Science**, **Python Development**, and **Machine Learning**. I love exploring real-world data problems and building solutions using Python and Django. This GitHub profile showcases my projects, internships, and hands-on work as I grow in the field of technology.
 
-## About Me
+## 🔍 About Me
 
-- 🎓 Completed **Bachelor of Computer Applications (BCA)** from **University of North Bengal** with a CGPA of 8.63
-- 💡 Interested in **Data Science**, **Machine Learning**, and **Software Development**
-- 📚 Building a strong foundation in **Python**, **DSA**, and **Data Analysis**
-- 🌱 Currently working on projects that involve **Machine Learning**, **Data Analysis**, and **Python Programming**.
+- 🎓 Completed **Bachelor of Computer Applications (BCA)** from **University of North Bengal** with a CGPA of **8.63**
+- 💼 Currently a **Data Science Intern @Personifwy** and a former **Python Developer Intern @Darjeeling Trips**
+- 💡 Interested in **Data Analytics**, **Machine Learning**, and **Backend Development**
+- 📚 Strengthening skills in **Python**, **Django**, **DSA**, and **Data Analysis**
+- 🌱 Working on projects involving **ML models**, **EDA**, and **web app development**
 
-## GitHub Projects
+## 🛠️ GitHub Projects
 
-- **[Python Programming Assignments](https://github.com/HabibParvej/Python-_Assignments_MCA)**: Solutions to my programming assignments, focusing on foundational Python concepts and problem-solving skills.
-- **[DSA Practice](https://github.com/HabibParvej/DSA)**: My journey in mastering Data Structures and Algorithms, starting from the basics.
-- **[Smart Health Monitoring System](https://github.com/HabibParvej/SmartHealthMonitoringSystem)**: A health monitoring application that predicts health risks using Machine Learning and synthetic data.
-- **[Hate Speech Detection](https://github.com/HabibParvej/HateSpeechDetection)**: A machine learning model to detect hate speech in social media posts.
-- **[SMS Spam Classification](https://github.com/HabibParvej/sms-spam-classification)**: A project to classify SMS messages as spam or not spam using natural language processing (NLP) techniques.
-- **[Credit Data Analysis](https://github.com/HabibParvej/Credit-Data-analysis)**: Exploratory Data Analysis (EDA) and predictive modeling on credit data to analyze patterns and make predictions.
-- **Crime Data Analysis Using ML Approaches**: Analyzed crime data to uncover patterns and predict hotspots, using machine learning models.
-## Skills
+- 🔹 **[Python Programming Assignments](https://github.com/HabibParvej/Python-_Assignments_MCA)** – Foundational Python exercises and logic building
+- 🔹 **[DSA Practice](https://github.com/HabibParvej/DSA)** – Solving data structure & algorithm problems
+- 🔹 **[Smart Health Monitoring System](https://github.com/HabibParvej/SmartHealthMonitoringSystem)** – Predicting health risks using synthetic ML data
+- 🔹 **[Hate Speech Detection](https://github.com/HabibParvej/HateSpeechDetection)** – Detecting toxic content in social media using NLP
+- 🔹 **[SMS Spam Classification](https://github.com/HabibParvej/sms-spam-classification)** – NLP-based classification model for SMS spam filtering
+- 🔹 **[Credit Data Analysis](https://github.com/HabibParvej/Credit-Data-analysis)** – EDA and predictive modeling on financial data
+- 🔹 **Crime Data Analysis Using ML** – Analyzed and visualized crime trends using machine learning techniques
 
-- **Languages**: Python, C, C++, Java
-- **Libraries/Frameworks**: NumPy, Pandas, matplotlib, seaborn, streamlit.
-- **Web Development**: HTML, CSS, JavaScript, Bootstrap
+## 💡 Skills
+
+- **Languages**: Python, Java, C, C++
+- **Libraries/Frameworks**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Streamlit
+- **Web Development**: HTML, CSS, JavaScript, Bootstrap, Django
 - **Databases**: MySQL
-- **Tools**: Git, GitHub,vs-code,jupyter notebook,Xaamp server.
+- **Tools**: Git, GitHub, VS Code, Jupyter Notebook, XAMPP
 
-## Connect with Me
+## 🤝 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/habibparvej/)
-- [Email](mailto:habibparvej777@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/habibparvej/)
+- 📧 [Email](mailto:habibparvej777@gmail.com)
 
 ---
 
-Thank you for visiting my GitHub profile! Feel free to explore my projects and reach out if you’d like to collaborate or discuss anything tech-related!
-"""
+Thanks for visiting my GitHub! Feel free to explore my work, give feedback, or reach out if you’d like to collaborate on a project.
