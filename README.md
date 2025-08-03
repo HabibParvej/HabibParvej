@@ -1,14 +1,14 @@
 # Hello, I'm Habib Parvej! 👋
 
-I'm a passionate **MCA student at Siliguri Institute of Technology** with a focus on **Data Science**, **Python Development**, and **Machine Learning**. I love exploring real-world data problems and building solutions using Python and Django. This GitHub profile showcases my projects, internships, and hands-on work as I grow in the field of technology.
+I'm a passionate **MCA student at Siliguri Institute of Technology** with a focus on **Data Science**, **Python Development**, and **Machine Learning**. I enjoy solving real-world problems using data and code. This GitHub profile showcases my projects, completed internships, and hands-on experience as I grow in the tech field.
 
 ## 🔍 About Me
 
 - 🎓 Completed **Bachelor of Computer Applications (BCA)** from **University of North Bengal** with a CGPA of **8.63**
-- 💼 Currently a **Data Science Intern @Personifwy** and a former **Python Developer Intern @Darjeeling Trips**
-- 💡 Interested in **Data Analytics**, **Machine Learning**, and **Backend Development**
-- 📚 Strengthening skills in **Python**, **Django**, **DSA**, and **Data Analysis**
-- 🌱 Working on projects involving **ML models**, **EDA**, and **web app development**
+- 💼 Former **Data Science Intern @Personifwy** and **Python Developer Intern @Darjeeling Trips**
+- 💡 Passionate about **Data Analytics**, **Machine Learning**, and **Backend Development**
+- 📚 Actively building skills in **Python**, **Django**, **DSA**, and **ML**
+- 🌱 Working on projects involving **machine learning models**, **data analysis**, and **web applications**
 
 ## 🛠️ GitHub Projects
 
@@ -35,4 +35,4 @@ I'm a passionate **MCA student at Siliguri Institute of Technology** with a focu
 
 ---
 
-Thanks for visiting my GitHub! Feel free to explore my work, give feedback, or reach out if you’d like to collaborate on a project.
+Thanks for visiting my GitHub! Feel free to explore my work, give feedback, or reach out if you'd like to collaborate on a project.
