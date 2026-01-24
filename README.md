@@ -4,7 +4,7 @@
 💻 **Python | Django | Django REST Framework | Machine Learning | Data Analytics**  
 🚀 Passionate about building real-world, problem-solving applications using data and code.
 
-I’m an enthusiastic MCA candidate with hands-on experience through internships, academic projects, and open-source contributions. My interests lie in **Data Science**, **Backend Development**, and **AI-powered applications**.
+I’m an enthusiastic MCA candidate with hands-on experience through internships, academic projects, and open-source contributions. My interests lie in **Cloud Operations**  ** Development**, and ** DevOps **.
 
 ---
 
