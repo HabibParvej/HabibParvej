@@ -1,54 +1,110 @@
-# Hello, I'm Habib Parvej! 👋
+# Hello, I'm **Habib Parvej** 👋  
 
-I'm a passionate **MCA student at Siliguri Institute of Technology** with a focus on **Data Science**, **Python Development**, and **Machine Learning**. I enjoy solving real-world problems using data and code. This GitHub profile showcases my projects, completed internships, and hands-on experience as I grow in the tech field.
+🎓 **MCA Student @ Siliguri Institute of Technology**  
+💻 **Python | Django | Machine Learning | Data Analytics**  
+🚀 Passionate about building real-world, problem-solving applications using data and code.
+
+I’m an enthusiastic MCA candidate with hands-on experience through internships, academic projects, and open-source contributions. My interests lie in **Data Science**, **Backend Development**, and **AI-powered applications**.
 
 ---
 
-## 🔍 Quick Facts About Me
+## 🎓 Education
 
-- 🎓 **BCA Graduate** from the **University of North Bengal** – CGPA: **8.63**
-- 💼 Ex-Intern at **Personifwy** (*Data Science*) & **Darjeeling Trips** (*Python Development*)
-- 💡 Interested in **Data Analytics**, **ML Projects**, and **Backend Development**
-- 🚀 Currently exploring **Python**, **Django**, **DSA**, and **Machine Learning**
+### **Master of Computer Applications (MCA)**
+📍 *Siliguri Institute of Technology, West Bengal*  
+📆 *Currently Pursuing*  
+- Core subjects: Data Structures, Python Programming, Machine Learning, Data Analytics, DBMS, Web Technologies  
+- Actively working on academic and real-world projects using Python, ML, and Web Technologies  
+
+### **Bachelor of Computer Applications (BCA)**
+📍 *University of North Bengal*  
+📊 **CGPA: 8.63**
+
+---
+
+## 💼 Internships & Experience
+
+- 🪖 **Indian Army – Intern**  
+  - Worked on a private internal project (**ArmyProject**)  
+  - Gained exposure to structured development, discipline, and secure systems  
+  - Applied Python and web development concepts in a real organizational environment  
+
+- 💼 **Data Science Intern – Personifwy**  
+  - Performed data cleaning, exploratory data analysis (EDA), and basic ML modeling  
+  - Worked with Pandas, NumPy, and data visualization tools  
+
+- 💼 **Python Developer Intern – Darjeeling Trips**  
+  - Developed backend logic using Python  
+  - Assisted in building dynamic features for web-based applications  
 
 ---
 
 ## 📂 Featured Projects
 
-- 🐍 [**Python Assignments**](https://github.com/HabibParvej/Python-_Assignments_MCA) – Core Python exercises & logic building  
-- 📊 [**DSA Practice**](https://github.com/HabibParvej/DSA) – Coding common data structure & algorithm problems  
-- ❤️ [**Smart Health Monitoring System**](https://github.com/HabibParvej/SmartHealthMonitoringSystem) – ML-based health risk predictor  
-- 🧠 [**Hate Speech Detection**](https://github.com/HabibParvej/HateSpeechDetection) – NLP model to identify toxic content  
-- 📩 [**SMS Spam Classifier**](https://github.com/HabibParvej/sms-spam-classification) – Detects spam using machine learning  
-- 💳 [**Credit Data Analysis**](https://github.com/HabibParvej/Credit-Data-analysis) – EDA + predictive modeling  
-- 🕵️‍♂️ **Crime Data Analysis (ML)** – Identified crime trends using machine learning *(repo coming soon)*
+### 🔹 Machine Learning & Data Analytics
+- 📊 **MachineLearning** – Collection of ML notebooks and experiments  
+- 📩 **SMS Spam Classification** – Machine learning-based spam detection system  
+- 💳 **Credit Data Analysis (EDA)** – Exploratory data analysis and insights  
+- 📈 **DataAnalysis_MCA** – MCA academic data analysis projects  
+- 📊 **Data Visualization** – Data visualization using Python  
+
+### 🔹 AI & Logic-Based Projects
+- 🤖 **ChatBot** – Python-based conversational chatbot  
+- 🧠 **QuizGen** – Automated quiz generation system  
+- 🎮 **AI_Games** – Logic-based AI game implementations  
+- 🚰 **Water Jug Game** – Classic AI problem-solving puzzle  
+- 🧑‍🤝‍🧑 **Missionaries & Cannibals** – AI search-based problem  
+- 🚣 **River Crossing Puzzle** – State-space problem-solving game  
+
+### 🔹 Web & Backend Projects
+- 🌍 **WanderLog_AI** – AI-based travel logging concept project  
+- 🧑‍💻 **WebEnabled Java** – Java-based web-enabled application  
+- 🔐 **Login_JSP** – Authentication system using JSP  
+- 🏢 **JobPortal** – Job portal web application (open-source contribution)  
+- 🧾 **Placement_Partner** *(Private)* – Python-based placement management system  
+- 🪖 **ArmyProject** *(Private)* – Internship project developed for the Indian Army  
+
+### 🔹 Programming Practice
+- 🧩 **DSA** – Data Structures and Algorithms in C++  
+- 🐍 **Python-_Assignments_MCA** – MCA Python coursework  
+- ☕ **CORE_JAVA** – Core Java programs  
+- 🧪 **MY-PYTHON-CODES** – Python practice programs and mini scripts  
 
 ---
 
 ## 🛠 Tech Stack
 
-- **Languages**: Python, Java, C, C++  
-- **ML/Data Tools**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
-- **Web**: HTML, CSS, JavaScript, Bootstrap, Django, Streamlit  
-- **Database**: MySQL  
-- **Tools**: Git, GitHub, VS Code, Jupyter Notebook, XAMPP
+### **Languages**
+- Python, Java, C, C++
+
+### **Data & Machine Learning**
+- Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
+
+### **Web Development**
+- HTML, CSS, JavaScript, JSP, Django  
+
+### **Database**
+- MySQL  
+
+### **Tools & Platforms**
+- Git, GitHub, VS Code, Jupyter Notebook, XAMPP  
 
 ---
 
-## 🌍 Let's Connect
+## 🌟 Open Source & GitHub Activity
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/habibparvej/)  
-- 📧 [Email](mailto:habibparvej777@gmail.com)
-
----
-
-## 🌟 Open Source Contributions
-
-- 🧩 Added a Django view to [**fork-commit-merge**](https://github.com/fork-commit-merge/fork-commit-merge) → [PR #4310](https://github.com/fork-commit-merge/fork-commit-merge/pull/4310)  
-- 🔧 Improved job search features in [**JobPortal**](https://github.com/Khushi-Nigam/jobportal)  
-  - Fixed AJAX bugs & search filters  
-  - Refactored views/templates for better UX → [PR #109](https://github.com/Khushi-Nigam/jobportal/pull/109)
+- Active open-source contributor  
+- Experience with fork, commit, merge, and pull request workflows  
+- Regularly maintaining academic, machine learning, and web development repositories  
 
 ---
 
-Thanks for dropping by! Feel free to explore my projects, give feedback, or reach out for collaboration. 😊
+## 🌍 Connect With Me
+
+- 🔗 **LinkedIn**: https://www.linkedin.com/in/habibparvej  
+- 📧 **Email**: habibparvej777@gmail.com  
+
+---
+
+⭐ *Thanks for visiting my GitHub profile!*  
+Feel free to explore my repositories, raise issues, or collaborate on projects 😊
