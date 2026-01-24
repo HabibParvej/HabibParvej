@@ -1,7 +1,7 @@
 # Hello, I'm **Habib Parvej** 👋  
 
 🎓 **MCA Student @ Siliguri Institute of Technology**  
-💻 **Python | Django | Machine Learning | Data Analytics**  
+💻 **Python | Django | Django REST Framework | Machine Learning | Data Analytics**  
 🚀 Passionate about building real-world, problem-solving applications using data and code.
 
 I’m an enthusiastic MCA candidate with hands-on experience through internships, academic projects, and open-source contributions. My interests lie in **Data Science**, **Backend Development**, and **AI-powered applications**.
@@ -39,6 +39,16 @@ I’m an enthusiastic MCA candidate with hands-on experience through internships
 
 ---
 
+## 🌟 Open Source Contributions
+
+- 🏢 **JobPortal (Open Source Contribution)**  
+  🔗 Repository: https://github.com/Khushi-Nigam/jobportal  
+  - Contributed to a job portal web application  
+  - Improved UI components and backend logic  
+  - Gained hands-on experience with collaborative development, Git workflows, and real-world codebases  
+
+---
+
 ## 📂 Featured Projects
 
 ### 🔹 Machine Learning & Data Analytics
@@ -60,7 +70,6 @@ I’m an enthusiastic MCA candidate with hands-on experience through internships
 - 🌍 **WanderLog_AI** – AI-based travel logging concept project  
 - 🧑‍💻 **WebEnabled Java** – Java-based web-enabled application  
 - 🔐 **Login_JSP** – Authentication system using JSP  
-- 🏢 **JobPortal** – Job portal web application (open-source contribution)  
 - 🧾 **Placement_Partner** *(Private)* – Python-based placement management system  
 - 🪖 **ArmyProject** *(Private)* – Internship project developed for the Indian Army  
 
@@ -77,25 +86,22 @@ I’m an enthusiastic MCA candidate with hands-on experience through internships
 ### **Languages**
 - Python, Java, C, C++
 
+### **Frameworks & Libraries**
+- Django  
+- Django REST Framework  
+- Bootstrap  
+
 ### **Data & Machine Learning**
 - Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
 
 ### **Web Development**
-- HTML, CSS, JavaScript, JSP, Django  
+- HTML, CSS, JavaScript, JSP  
 
 ### **Database**
 - MySQL  
 
 ### **Tools & Platforms**
 - Git, GitHub, VS Code, Jupyter Notebook, XAMPP  
-
----
-
-## 🌟 Open Source & GitHub Activity
-
-- Active open-source contributor  
-- Experience with fork, commit, merge, and pull request workflows  
-- Regularly maintaining academic, machine learning, and web development repositories  
 
 ---
 
