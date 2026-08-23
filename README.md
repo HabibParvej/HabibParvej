@@ -1,10 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="HabibParvej's GitHub profile" src="dark_mode.svg" />
-</picture>
-
-<br/>
 
 <h1 align="center">Hi, I'm Ahasan Habib Parvej 👋</h1>
 
