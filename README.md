@@ -176,6 +176,6 @@ MCA graduate and Python/Django developer with real-world experience across backe
 ---
 
 <p align="center">
-  <i>Open to full-time Software Developer / Python / Full Stack roles — India or Remote (₹6 LPA+)</i><br/>
+  <i>Open to full-time Software Developer / Python / Full Stack roles — India or Remote</i><br/>
   <a href="mailto:habibparvej777@gmail.com">habibparvej777@gmail.com</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/habibparvej">linkedin.com/in/habibparvej</a>
 </p>
